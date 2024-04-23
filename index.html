@@ -411,6 +411,19 @@ breakpoints: {
 });
   </script>
 
+ <script>
+ var navlinks = document.querySelectorAll(".nav-link");
+ var navbar = document.getElementById("navbarSupportedContent")
+ var burger = document.querySelector(".navbar-toggler")
+ console.log(navlinks)
+ navlinks.forEach((val)=>{
+val.addEventListener("click",()=>{
+navbar.classList.remove("show");
+})
+ });
+
+
  
+ </script>
  </body>
 </html>
