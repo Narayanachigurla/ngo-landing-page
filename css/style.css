@@ -13,6 +13,7 @@ font-family: 'Syncopate', sans-serif;*/
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=DM+Sans&family=Days+One&family=Kanit:wght@500&family=Montserrat&family=Roboto:wght@300&family=Russo+One&family=Syncopate:wght@700&display=swap');
 a {
     list-style: none;
+    text-decoration: none;
 }
 .nav-link:hover{
     color: #fecd03;
@@ -429,16 +430,13 @@ filter: none;
             background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
             color: #fff;
             gap: 20px;
-            transition: all 500ms;
             
         }
         .right-section:hover .right-img-button {
             height: 100%;
-            transition: all 500ms;
         }
         .left-section:hover .left-img-button {
             height: 100%;
-            transition: all 500ms;
         }
 
         .content{
