@@ -376,19 +376,14 @@
     var swiper = new Swiper(".slide-container", {
 slidesPerView: 3,
 spaceBetween: 30,
-// autoplay:{
-//   delay:2500,
-// },
+autoplay:{
+  delay:2500,
+},
 sliderPerGroup: 3,
 loop: true,
 centerSlide: "true",
 fade: "true",
 grabCursor: "true",
-pagination: {
-  el: ".swiper-pagination",
-  clickable: true,
-  dynamicBullets: true,
-},
 navigation: {
   nextEl: ".swiper-button-next",
   prevEl: ".swiper-button-prev",
