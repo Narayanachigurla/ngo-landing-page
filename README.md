@@ -1,7 +1,7 @@
 ## 📝 About the Project
 
 **NGO_Landing_Page** is a 🌟 **Landing Page** 🌟 that aims to 🎯 **capture leads, showcase product features, and drive user engagement** 🎯. 
-**Landing Page Url** : https://narayanachigurla.github.io/NGO_Landing_Page/
+**Landing Page Url** : https://narayanachigurla.github.io/ngo-landing-page/
 ### ✨ Features
 
 - ✅ **Stunning Landing Page**: 🖼️ An eye-catching landing page designed to attract and engage users.
